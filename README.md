@@ -1,2 +1,2 @@
-# arcane-factory
-Files for the Arcane Factory Modpack
+# fabrica-arcanum
+Files for the Fabrica Arcanum Modpack
